@@ -48,8 +48,7 @@ s0.parentNode.insertBefore(s1,s0);
 </head>
 
 <body>
-    
-  <header class="header">
+
     <!-- large screens nav  -->
   
     <nav class="container p-3 pt-5">
